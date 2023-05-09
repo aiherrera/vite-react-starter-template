@@ -15,7 +15,7 @@
 
 > This is a fully configurated template starter for quickly create Proof Of Concepts.
 
-Have you ever needed to prepare ASAP(as usual) a quick demonstration to be shown or just wanted develop an idea that hit you out of the blue?
+Have you ever needed to prepare ASAP(as usual) a quick demonstration to be shown or just wanted to develop an idea that hit you out of the blue?
 
 ![Preview Image](https://github.com/aiherrera/vite-react-starter-template/blob/development/public/example.png?raw=true)
 
