@@ -30,19 +30,23 @@ With this template, you can rapidly create projects that serve as evidence or pr
 > ### Install dependencies
 
 ```sh
-npm i
+npm install
+
+bun install
 ```
 
 > ### Usage
 
 ```sh
 npm run dev
+
+bun run dev
 ```
 
-> ### Run tests
-
 ```sh
-npm run test
+npm run build
+
+bun run build
 ```
 
 ## Author
