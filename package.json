@@ -1,15 +1,15 @@
 {
   "name": "vite-react-starter-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vite + React starter template",
   "author": "Alain Iglesias",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
+    "dev": "bunx --bun vite",
+    "build": "bunx --bun vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "bunx --bun vite preview"
   },
   "keywords": [
     "vite",
@@ -26,8 +26,8 @@
   "devDependencies": {
     "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
-    "@typescript-eslint/eslint-plugin": "^6.7.2",
-    "@typescript-eslint/parser": "^6.7.2",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
     "@vitejs/plugin-react": "^4.1.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.50.0",
