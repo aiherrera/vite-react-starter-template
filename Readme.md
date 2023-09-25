@@ -38,14 +38,10 @@ bun install
 > ### Usage
 
 ```sh
-npm run dev
-
 bun run dev
 ```
 
 ```sh
-npm run build
-
 bun run build
 ```
 
