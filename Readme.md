@@ -30,8 +30,6 @@ With this template, you can rapidly create projects that serve as evidence or pr
 > ### Install dependencies
 
 ```sh
-npm install
-
 bun install
 ```
 
